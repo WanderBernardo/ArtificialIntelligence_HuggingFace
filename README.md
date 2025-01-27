@@ -40,9 +40,13 @@ The click in Models or Datasets, is possible addicional filters to facility sear
  - Datasets: Modalities, Size, Format
 ![image](https://github.com/user-attachments/assets/b692ab57-0aac-400c-b480-f02e4993c27f)
 
+# Okay, I like of the model and What does I make?
+
+Select the model and check the instructions of the use, how was trained, etc... And It can test on the portal the same screen
+![image](https://github.com/user-attachments/assets/b87cbc25-f093-4f1f-a892-9d1452ab3aa8)
+
 ## The final, Where are the ``` Transformers ``` and ``` Berts ```?
 
-3 - Select ``` Models ``` and in the search bar type: "Transformer or Bert"
+Select ``` Models ``` and in the search bar type: "Transformer or Bert"
 ![image](https://github.com/user-attachments/assets/914ed5fc-8bd9-4a54-a05c-7675e2509066)
 
-# The final, Where are the ``` Transformers ``` and ``` Berts ```?
