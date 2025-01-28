@@ -52,4 +52,5 @@ Select ``` Models ``` and in the search bar type: "Transformer or Bert"
 
 ## Exemplo using Python Code:
 
-https://github.com/WanderBernardo/ArtificialIntelligence_UsingTransformers
+- https://github.com/WanderBernardo/ArtificialIntelligence_UsingTransformers
+- https://github.com/WanderBernardo/ArtificialIntelligence_UsingBERT
