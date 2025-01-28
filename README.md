@@ -50,3 +50,6 @@ Select the model and check the instructions of the use, how was trained, etc... 
 Select ``` Models ``` and in the search bar type: "Transformer or Bert"
 ![image](https://github.com/user-attachments/assets/914ed5fc-8bd9-4a54-a05c-7675e2509066)
 
+## Exemplo using Python Code:
+
+https://github.com/WanderBernardo/ArtificialIntelligence_UsingTransformers
